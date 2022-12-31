@@ -3,7 +3,7 @@
 
 I've been coding since april 2022, starting with The Odin Project's curriculum, and recently finished a web-development course, where I used and learned JavaScript, CSS, HTML, Bootstrap, Node.js.
 
-I'm planing to start a Cybersecurity's degree in 2023.
+I'm planing to start a Cybersecurity degree in 2023.
 
 - 🌱 &nbsp;I’m currently learning React
 - 🌍 &nbsp;I'm based in Montevideo, Uruguay
